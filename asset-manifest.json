@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Fatmug-Webapp/static/css/main.6703e2db.chunk.css",
+    "main.js": "/Fatmug-Webapp/static/js/main.e20cd25b.chunk.js",
+    "main.js.map": "/Fatmug-Webapp/static/js/main.e20cd25b.chunk.js.map",
+    "runtime-main.js": "/Fatmug-Webapp/static/js/runtime-main.683eaa02.js",
+    "runtime-main.js.map": "/Fatmug-Webapp/static/js/runtime-main.683eaa02.js.map",
+    "static/js/2.c9cd68da.chunk.js": "/Fatmug-Webapp/static/js/2.c9cd68da.chunk.js",
+    "static/js/2.c9cd68da.chunk.js.map": "/Fatmug-Webapp/static/js/2.c9cd68da.chunk.js.map",
+    "static/js/3.892847ab.chunk.js": "/Fatmug-Webapp/static/js/3.892847ab.chunk.js",
+    "static/js/3.892847ab.chunk.js.map": "/Fatmug-Webapp/static/js/3.892847ab.chunk.js.map",
+    "index.html": "/Fatmug-Webapp/index.html",
+    "static/css/main.6703e2db.chunk.css.map": "/Fatmug-Webapp/static/css/main.6703e2db.chunk.css.map",
+    "static/js/2.c9cd68da.chunk.js.LICENSE.txt": "/Fatmug-Webapp/static/js/2.c9cd68da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.683eaa02.js",
+    "static/js/2.c9cd68da.chunk.js",
+    "static/css/main.6703e2db.chunk.css",
+    "static/js/main.e20cd25b.chunk.js"
+  ]
+}
